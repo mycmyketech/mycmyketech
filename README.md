@@ -3,18 +3,18 @@
 <h2>👨‍💻 IT Support Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Installation Guide](https://github.com/mykeclouds/osticket-install)
-  - [osTicket: Configuration](https://github.com/mykeclouds/config)
-  - [osTicket: Ticketing Examples](https://github.com/mykeclouds/ticketing)
+  - [osTicket: Installation Guide](https://github.com/mycmiketech/osticket-install)
+  - [osTicket: Configuration](https://github.com/mycmiketech/config)
+  - [osTicket: Ticketing Examples](https://github.com/mycmiketech/ticketing)
+
 - <b>Microsoft Azure</b>
-  - [Active Directory within Azure VMs](https://github.com/mykeclouds/configure-ad)
-  - [Network Security Groups (NSGs) and Protocols](https://github.com/mykeclouds/azure-network-protocols)
+  - [Active Directory within Azure VMs](https://github.com/mycmiketech/configure-ad)
+  - [Network Security Groups (NSGs) and Protocols](https://github.com/mycmiketech/azure-network-protocols)
 
 - <b>Active Directory</b>
-  - [Add User](https://github.com/mykeclouds/ActiveDirectoryLab)
-- <b>Ticketing</b>
-  - [Title](Link)
+  - [Users: Adding, Removing, and Password Resets](https://github.com/mycmiketech/AD-UserLab)
 
+<!--
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
@@ -33,6 +33,8 @@
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+
+-->
 
 <h2> 🤳 Connect with me:</h2>
 
