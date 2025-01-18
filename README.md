@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Support Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Installation Guide](https://github.com/mycmiketech/osticket-install)
+  - [osTicket: Installation Guide](https://github.com/mycmyketech/osticket-install)
   - [osTicket: Configuration](https://github.com/mycmiketech/config)
   - [osTicket: Ticketing Examples](https://github.com/mycmiketech/ticketing)
 
